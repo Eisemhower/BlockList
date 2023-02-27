@@ -1,0 +1,24 @@
+# My custom list of domains to block. Based on manual inspection and lots of redditing. 
+
+adxadserv.com
+static.adxadserv.com
+r.trackwilltrk.com
+ads.adxadserv.com
+simplewebanalysis.com
+poweredby.jads.co
+signaler-pa.clients6.google.com 
+js.monitor.azure.com
+delivery.swid.switchadhub.com
+delivery.g.switchadhub.com
+cdn.switchadhub.com
+o21767.ingest.sentry.io
+enterprise.activity.windows.com
+dc.services.visualstudio.com
+market-trk.com
+nytimes.map.fastly.net
+settings-win.data.microsoft.com
+assets.adobedtm.com
+experiment-allocation.yelp.com
+bunsen.yelp.com
+browser.events.data.msn.com
+mobile.events.data.microsoft.com
