@@ -22,3 +22,6 @@ experiment-allocation.yelp.com
 bunsen.yelp.com
 browser.events.data.msn.com
 mobile.events.data.microsoft.com
+a1kkx7muourfsi-ats.iot.us-east-1.amazonaws.com
+messaging.engagement.office.com
+static.javhdhello.com
