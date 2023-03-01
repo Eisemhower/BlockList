@@ -26,3 +26,15 @@ a1kkx7muourfsi-ats.iot.us-east-1.amazonaws.com
 messaging.engagement.office.com
 static.javhdhello.com
 amplitude.life360.com
+dns.weixin.qq.com
+real-feedback.toros.daum.net
+sdk.split.io
+auto-api.yelp.com
+prod-campaignaggregator.omexexternallfb.office.net.akadns.net
+messaging.engagement.office.com
+cxcs.microsoft.net
+b-hls-23.doppiocdn.com
+img.strpst.com
+strpst.com
+cdn.strpst.com
+cellarpassion.com
