@@ -43,3 +43,4 @@ dplhxo.a.searchspring.io
 display.ugc.bazaarvoice.com
 network-a.bazaarvoice.com
 api.bazaarvoice.com
+p2p-cal-2.anker-in.com
