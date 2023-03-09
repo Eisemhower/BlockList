@@ -49,3 +49,5 @@ gpi3.life360.com
 api.plu.mx
 plu.mxc
 cdn.plu.mx
+pendo.io
+cdn.pendo.io
