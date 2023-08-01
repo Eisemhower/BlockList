@@ -46,6 +46,7 @@ api.bazaarvoice.com
 p2p-cal-2.anker-in.com
 android.life360.com
 gpi3.life360.com
+life360.com
 api.plu.mx
 plu.mxc
 cdn.plu.mx
