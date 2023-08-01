@@ -26,6 +26,7 @@ a1kkx7muourfsi-ats.iot.us-east-1.amazonaws.com
 messaging.engagement.office.com
 static.javhdhello.com
 amplitude.life360.com
+api-cloudfront.life360.com
 dns.weixin.qq.com
 real-feedback.toros.daum.net
 sdk.split.io
