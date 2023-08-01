@@ -53,4 +53,6 @@ pendo.io
 cdn.pendo.io
 mediaservices.cdn-apple.com
 android-context-data.googleapis.com
+sidekickopen60.com
+t.sidekickopen60.com
 
