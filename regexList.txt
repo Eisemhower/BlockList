@@ -22,3 +22,4 @@
 (^|\.)logs\.roku\.com$	
 (^|\.)avcdn\.net$	
 (^|\.)cn$
+^launchdarkly.com$
