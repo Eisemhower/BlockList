@@ -63,3 +63,4 @@ businessawardlocal.com
 awstrack.me
 imrworldwide.com
 pub.observability.app.launchdarkly.com
+otel.observability.app.launchdarkly.com
