@@ -23,3 +23,4 @@
 (^|\.)avcdn\.net$	
 (^|\.)cn$
 ^launchdarkly.com$
+(\.|^)life360\.com$
