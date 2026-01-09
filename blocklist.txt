@@ -61,3 +61,5 @@ ohio-edu.org
 femetrics.grammarly.io
 businessawardlocal.com
 awstrack.me
+prod2-jumbo-emqx-tier2-azrlb.sprinklr.com
+prod2-live-chat-tier2-mqtt.sprinklr.com
